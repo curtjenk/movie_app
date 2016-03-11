@@ -1,0 +1,8 @@
+body { padding-top: 55px; } /* padding is required because the navbar will overlay any content at the top. must come AFTER bootstrap.css */
+
+.movie    {
+	width: auto;
+	height: 300px;
+	overflow: hidden;
+	margin-bottom: 5px;
+   }
