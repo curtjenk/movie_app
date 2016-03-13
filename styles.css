@@ -6,3 +6,7 @@ body { padding-top: 55px; } /* padding is required because the navbar will overl
 	overflow: hidden;
 	margin-bottom: 5px;
    }
+
+.indent {
+	padding: 0 20px;
+}
